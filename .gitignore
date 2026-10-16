@@ -3,3 +3,9 @@
 Thumbs.db
 .vscode/
 .idea/
+
+# Office lock files
+~$*
+
+# Superseded local-only file (see CLAUDE.md)
+Product_Leadership_Case_Studies.md
